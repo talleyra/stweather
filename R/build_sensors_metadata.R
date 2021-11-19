@@ -8,6 +8,8 @@
 #' @importFrom tidyr unnest_wider
 #' @importFrom dplyr select
 #' @importFrom dplyr left_join
+#' @export
+
 
 build_sensors_metadata <- function(){
 
